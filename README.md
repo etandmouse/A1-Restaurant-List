@@ -1,7 +1,7 @@
-#Restaurant List
+# Restaurant List
 此專案列出我的餐廳清單
 
-##功能
+## 功能
 - 觀看餐廳列表
 - 觀看餐廳詳細資訊
 - 搜尋餐廳
